@@ -1,4 +1,4 @@
-##Task 1 – Data Cleaning and Preprocessing Project
+Task 1 – Data Cleaning and Preprocessing Project
 
 Objective:
 Cleaned and standardized a raw sales dataset to improve data quality, consistency, and readiness for analysis.
